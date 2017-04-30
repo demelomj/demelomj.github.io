@@ -306,6 +306,25 @@ footer .footer-below {
   padding: 25px 0;
   background-color: #233140;
 }
+ /* Coloured Button Test */
+ 
+ .btn-outline2 {
+  color: #FFA321;
+  font-size: 20px;
+  border: solid 2px #FFA321;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+ }  
+.btn-outline2:hover,
+.btn-outline2:focus,
+.btn-outline2:active,
+.btn-outline2.active {
+  color: #FFA321;
+  background: white;
+  border: solid 2px #FFA321;
+} 
+
 .btn-outline {
   color: white;
   font-size: 20px;
