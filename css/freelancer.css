@@ -309,9 +309,9 @@ footer .footer-below {
  /* Coloured Button Test */
  
  .btn-outline2 {
-  color: #FFA321;
+  color: #3D9C2E;
   font-size: 20px;
-  border: solid 2px #FFA321;
+  border: solid 2px #3D9C2E;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -320,9 +320,9 @@ footer .footer-below {
 .btn-outline2:focus,
 .btn-outline2:active,
 .btn-outline2.active {
-  color: #FFA321;
+  color: #3D9C2E;
   background: white;
-  border: solid 2px #FFA321;
+  border: solid 2px #3D9C2E;
 } 
 
 .btn-outline {
@@ -459,6 +459,7 @@ fieldset[disabled] .btn-success.active {
   min-height: 100%;
   padding: 100px 0;
   text-align: center;
+  overflow-y: auto;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
