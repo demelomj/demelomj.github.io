@@ -180,6 +180,14 @@ section h2 {
   margin: 0;
   font-size: 3em;
 }
+section.success2 {
+  background: #116058;
+  color: white;
+}
+section.success3 {
+  background: #8CB134;
+  color: white;
+}  
 section.success {
   background: #18BC9C;
   color: white;
